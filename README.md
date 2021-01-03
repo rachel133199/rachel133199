@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on making REST Web APIs
 - 📫 How to reach me: z963li@uwaterloo.ca
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a big spiderman fan
+- ⚡ Fun fact: I am a big spiderman fan :sparkling_heart: :boom:
 
 <!--- 🤔 I’m looking for help with .. 
 - 💬 Ask me about C++ and Racket -->
