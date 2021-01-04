@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a React project
+- 🔭 I’m currently seeking co-op opportunities for spring 2021, please contact me if interested
 - 🌱 I’m currently learning React and C++
 - 👯 I’m looking to collaborate on making REST Web APIs
 - 📫 How to reach me: z963li@uwaterloo.ca
