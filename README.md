@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning React and C++
-- 👯 I’m looking to collaborate on making REST Web APIs
+- 🌱 I’m a second year Computer Science student at the University of Waterloo
+- 👯 My specialties are C++, C, React, Bash Script, Flask and JavaScript
+- ✨ Other skills/tools: Git, Python, Ubuntu/Linux, Vim, Bootstrap, React-Bootstrap, GDB, Valgrind, UML, SQLAlchemy, HTML, Racket, CSS, SQL, 
 - 📫 How to reach me: z963li@uwaterloo.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a big spiderman fan :sparkling_heart: :boom:
