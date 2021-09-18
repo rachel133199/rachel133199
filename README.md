@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m a second year Computer Science student at the University of Waterloo
-- 👯 My specialties are C++, C, React, Bash Script, Flask, JavaScript and Racket
+- 🌱 I’m a third year Computer Science student at the University of Waterloo
+- 👯 My specialties are JavaScript, TypeScript, React Native C++, C, React, Bash Script, Flask, and Racket
 - ✨ Other skills/tools: Git, Python, Ubuntu/Linux, Vim, Bootstrap, React-Bootstrap, GDB, Valgrind, UML, SQLAlchemy, HTML, Racket, SQL
 - 📫 How to reach me: z963li@uwaterloo.ca
 - 😄 Pronouns: she/her
